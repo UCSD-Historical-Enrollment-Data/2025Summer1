@@ -1,0 +1,9 @@
+# CGS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| CGS 106 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/CGS%20106.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/CGS%20106.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/CGS%20106.png) |  |
+| CGS 108 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/CGS%20108.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/CGS%20108.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/CGS%20108.png) |  |
+| CGS 114 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/CGS%20114.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/CGS%20114.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/CGS%20114.png) |  |
+| CGS 137 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/CGS%20137.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/CGS%20137.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/CGS%20137.png) |  |
+| CGS 2A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/CGS%202A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/CGS%202A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/CGS%202A.png) |  |

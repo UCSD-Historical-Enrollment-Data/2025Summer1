@@ -1,0 +1,11 @@
+# ANTH
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| ANTH 1 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/ANTH%201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/ANTH%201.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/ANTH%201.png) |  |
+| ANTH 10 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/ANTH%2010.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/ANTH%2010.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/ANTH%2010.png) |  |
+| ANTH 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/ANTH%20101.csv) |  |
+| ANTH 102 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/ANTH%20102.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/ANTH%20102.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/ANTH%20102.png) |  |
+| ANTH 103 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/ANTH%20103.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/ANTH%20103.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/ANTH%20103.png) |  |
+| ANTH 21 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/ANTH%2021.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/ANTH%2021.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/ANTH%2021.png) |  |
+| ANTH 23 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/ANTH%2023.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/ANTH%2023.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/ANTH%2023.png) |  |

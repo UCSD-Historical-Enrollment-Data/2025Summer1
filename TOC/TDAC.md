@@ -1,0 +1,5 @@
+# TDAC
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| TDAC 1 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/overall/TDAC%201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall/TDAC%201.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_overall_wide/TDAC%201.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/section/TDAC%201_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_section/TDAC%201_A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_section_wide/TDAC%201_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer1/blob/main/section/TDAC%201_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_section/TDAC%201_B.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer1/main/plot_section_wide/TDAC%201_B.png) |
